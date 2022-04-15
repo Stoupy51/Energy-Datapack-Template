@@ -1,6 +1,6 @@
 ### Translations
-* [English](https://github.com/Stoupy51/Energy-Datapack-Template/blob/main/README.md)
-* [Française](https://github.com/Stoupy51/Energy-Datapack-Template/blob/main/README.fr.md)
+* [English](https://github.com/Stoupy51/Energy-Datapack-Template/blob/master/README.md)
+* [Française](https://github.com/Stoupy51/Energy-Datapack-Template/blob/master/README.fr.md)
 
 
 
