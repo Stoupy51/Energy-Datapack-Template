@@ -21,4 +21,5 @@ loot spawn ~ ~ ~ loot energy_datapack_template:i/empty_generator
 loot spawn ~ ~ ~ loot energy_datapack_template:i/empty_consumer
 
 execute as @e[type=item,dx=0,dy=0,dz=0] run data modify entity @s PickupDelay set value 2s
+execute as @e[type=item,dx=0,dy=0,dz=0] run data modify entity @s Motion set value [0.0,0.0,0.0]
 
