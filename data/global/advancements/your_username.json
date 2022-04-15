@@ -1,10 +1,10 @@
 {
 	"display": {
-		"title": "Your Username",
+		"title": "<Your name>",
 		"description": "",
 		"icon": {
 			"item": "minecraft:player_head",
-			"nbt": "{SkullOwner:\"Your Username\"}"
+			"nbt": "{SkullOwner: '<your_minecraft_name>'}"
 		},
 		"show_toast": false,
 		"announce_to_chat": false

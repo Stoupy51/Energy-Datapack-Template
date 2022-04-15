@@ -25,7 +25,7 @@ scoreboard players set #-3 simplenergy.data -3
 #define storage energy_datapack_template:main
 # Storing all items into a global storage using CustomModelData prefix
 # CustomModelData convention: https://wiki.smithed.dev/conventions/cmd-prefixing
-# You should reserve a prefix 'XXX'
+# You should own a prefix 'XXX'
 
 #Resources
 	#Template Ore
