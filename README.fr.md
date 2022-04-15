@@ -4,21 +4,21 @@
 
 
 
-# Energy Datapack Template
+# ⚡ Energy Datapack Template
 - [Rejoignez notre serveur discord Energy Data Packs ici : https://discord.gg/a2yX6GD4J7](https://discord.gg/a2yX6GD4J7)
 - Nécessite au moins SimplEnergy [v1.8.0]: https://github.com/Stoupy51/SimplEnergy
 
 
 
-# Description
+# 📖 Description
 - Ce data pack est un modèle basé sur le design de SimplEnergy.
-- Le data pack Stardust Fragment utilise ce modèle, il s'agit donc d'une extension de SimplEnergy.
+- Le data pack [Stardust Fragment](https://www.planetminecraft.com/data-pack/stardust-fragment/) utilise ce modèle, il s'agit donc d'une extension de SimplEnergy.
 - Ce modèle est entièrement commenté et peut être utilisé comme point de départ pour créer votre propre datapack d'énergie.
 - Il nécessite SimplEnergy [v1.8.0] ou une version plus récente pour bénéficier des systèmes déjà créés et configurés listés juste en dessous.
 
 
 
-# Librairies/Modules utilisés, conventions, guideline, tips suivis
+# 📚 Librairies/Modules utilisés, conventions, guideline, tips suivis
 - [Smithed Custom Block Placement](https://wiki.smithed.dev/libraries/smithed-crafter)
 - [Smithed Crafter](https://wiki.smithed.dev/libraries/smithed-crafter)
 - [DatapackEnergy](https://github.com/ICY105/DatapackEnergy)
@@ -30,7 +30,7 @@
 
 
 
-# Ce qui est déjà configuré
+# 🔧 Ce qui est déjà configuré
 - **Lantern Load (load & post_load)**		base situé dans `load/tags/functions/*`
 - **Smithed Crafting Recipes**				situé dans `energy_datapack_template/functions/craft/`
 - **Smithed Custom Block Placement**		situé dans `energy_datapack_template/place/functions/main`
@@ -44,7 +44,7 @@
 
 
 
-# Comment l'utiliser
+# ▶️ Comment l'utiliser
 - Téléchargez l'ensemble à partir du code source ou de la release page.
 
 - Modifiez le nom du data pack en utilisant 'Rechercher et Remplacer' avec votre IDE préféré (**Activer 'respecter la casse'**)
