@@ -42,6 +42,8 @@ Requires at least SimplEnergy [v1.8.0]: https://github.com/Stoupy51/SimplEnergy
 - - (e.g. `simplenergy`, `my_energy_datapack`, ...)
 - - Find: `Energy Datapack Template` and replace with your data pack own name
 - - (e.g. `SimplEnergy`, `My Energy Datapack`, ...)
+- - Modify line 12 in `energy_datapack_template/functions/load.mcfunction` with your own data pack name
+- Modify content of `pack.mcmeta` with your own data pack name
 - Rename the energy_datapack_template folder to your own data pack name
 - Define your data pack versioning advancement using [global convention](https://mc-datapacks.github.io/en/conventions/datapack_advancement.html), files are located in
 - - `energy_datapack_template/advancements/energy_datapack_template.json`
@@ -49,4 +51,6 @@ Requires at least SimplEnergy [v1.8.0]: https://github.com/Stoupy51/SimplEnergy
 - Use 'Find and Replace' with your favorite IDE:
 - - Find: `your_name` and replace with your own name (e.g. `stoupy`, `uwu42`, ...), for the `from` nbt field regarding to the [Common Trait Convention](https://mc-datapacks.github.io/en/conventions/common_trait.html)
 - - Find: `XXX` and replace with your **owned** [CustomModelData prefix](https://wiki.smithed.dev/conventions/cmd-prefixing) (e.g. `XXX -> 201`, `XXX -> 067`, ...)
+- And you are done!
+You can now add your items, blocks, machines. You can also use/edit the resource pack folder
 
