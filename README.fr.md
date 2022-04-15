@@ -21,7 +21,7 @@
 # Librairies/Modules utilisés, conventions, guideline, tips suivis
 - [Smithed Custom Block Placement](https://wiki.smithed.dev/libraries/smithed-crafter)
 - [Smithed Crafter](https://wiki.smithed.dev/libraries/smithed-crafter)
-- [Datapack Energy](https://github.com/ICY105/DatapackEnergy)
+- [DatapackEnergy](https://github.com/ICY105/DatapackEnergy)
 - [Lantern Load](https://github.com/LanternMC/load)
 - [Smithed Conventions](https://wiki.smithed.dev/conventions)
 - [Minecraft Datapacks Conventions](https://mc-datapacks.github.io/en/conventions/index.html)
