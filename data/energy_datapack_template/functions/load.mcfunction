@@ -1,4 +1,7 @@
 
+##Called by function tag #load:load
+
+# Define scoreboard objectives
 scoreboard objectives add energy_datapack_template.data dummy
 scoreboard objectives add energy_datapack_template.config dummy
 

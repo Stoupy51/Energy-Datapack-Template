@@ -1,4 +1,7 @@
 
+##Called by function energy_datapack_template:place/main
+##that is called by function tag #smithed.custom_block:event/on_place
+
 tag @s add energy_datapack_template.placer
 
 execute if data storage smithed.custom_block:main blockApi{id:"energy_datapack_template:template_block"} run function energy_datapack_template:place/template_block/main
