@@ -34,7 +34,7 @@
 - **Lantern Load (load & post_load)**		base located in `load/tags/functions/*`
 - **Smithed Crafting Recipes**				located in `energy_datapack_template/functions/craft/`
 - **Smithed Custom Block Placement**		located in `energy_datapack_template/place/functions/main`
-- **SimplEnergy Custom Armor Durability**	located in `energy_datapack_template/functions/opti/hurt`
+- **SimplEnergy Custom Armor Durability**	located in `energy_datapack_template/functions/opti/durability_multiplier`
 - **SimplEnergy Custom Furnace Recipes**	located in `energy_datapack_template/functions/all_furnace_recipes`
 - **SimplEnergy Energy Charge Lore**		located in `energy_datapack_template/functions/destroy/*batteries*`
 - **SimplEnergy Ore Generation**			located in `energy_datapack_template/functions/generate/main`

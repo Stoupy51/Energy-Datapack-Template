@@ -4,7 +4,7 @@
 ##Here 42 * leather armor durability (42000 divided by 1000)
 ##And 1.2 * diamond tools durability (1200 divided by 1000)
 
-#Custom hurt durability for Template Armor & Tools
+#Custom durability for Template Armor & Tools
 	scoreboard players set #durability_multiplier simplenergy.data 42000
 	execute unless score @s simplenergy.head = #helmet simplenergy.data if data storage simplenergy:main durability[{Slot:103b,tag:{energy_datapack_template:{template:1b}}}] run function simplenergy:opti/durability_multiplier/helmet
 	execute unless score @s simplenergy.chest = #chestplate simplenergy.data if data storage simplenergy:main durability[{Slot:102b,tag:{energy_datapack_template:{template:1b}}}] run function simplenergy:opti/durability_multiplier/chestplate
