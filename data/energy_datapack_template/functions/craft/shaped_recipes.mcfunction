@@ -1,6 +1,8 @@
 
 ##Called by function tag #smithed.crafter:event/recipes
 
+##Optional: If you want that a custom recipe consume tools, just add the following line:
+##data modify storage smithed.crafter:main flags append value "consume_tools"
 
 
 #Empty Generator
