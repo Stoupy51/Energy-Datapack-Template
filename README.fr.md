@@ -6,7 +6,7 @@
 
 # ⚡ Energy Datapack Template
 - [Rejoignez notre serveur discord Energy Data Packs ici : https://discord.gg/a2yX6GD4J7](https://discord.gg/a2yX6GD4J7)
-- Nécessite au moins SimplEnergy [v1.8.0]: https://github.com/Stoupy51/SimplEnergy
+- Nécessite au moins SimplEnergy [v1.9.x]: https://github.com/Stoupy51/SimplEnergy
 
 
 
@@ -14,7 +14,7 @@
 - Ce data pack est un modèle basé sur le design de SimplEnergy.
 - Le data pack [Stardust Fragment](https://www.planetminecraft.com/data-pack/stardust-fragment/) utilise ce modèle, il s'agit donc d'une extension de SimplEnergy.
 - Ce modèle est entièrement commenté et peut être utilisé comme point de départ pour créer votre propre datapack d'énergie.
-- Il nécessite SimplEnergy [v1.8.0] ou une version plus récente pour bénéficier des systèmes déjà créés et configurés listés juste en dessous.
+- Il nécessite SimplEnergy [v1.9.x] ou une version plus récente pour bénéficier des systèmes déjà créés et configurés listés juste en dessous.
 
 
 
