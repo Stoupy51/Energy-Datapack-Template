@@ -22,6 +22,8 @@
 - [Smithed Custom Block Placement](https://wiki.smithed.dev/libraries/smithed-crafter)
 - [Smithed Crafter](https://wiki.smithed.dev/libraries/smithed-crafter)
 - [DatapackEnergy](https://github.com/ICY105/DatapackEnergy)
+- [Stoupy's Durability Multiplier](https://github.com/Stoupy51/DurabilityMultiplier)
+- [Stoupy's Furnace NBT Recipes](https://github.com/Stoupy51/FurnaceNbtRecipes)
 - [Lantern Load](https://github.com/LanternMC/load)
 - [Smithed Conventions](https://wiki.smithed.dev/conventions)
 - [Minecraft Datapacks Conventions](https://mc-datapacks.github.io/en/conventions/index.html)
@@ -34,8 +36,8 @@
 - **Lantern Load (load & post_load)**		base located in `load/tags/functions/*`
 - **Smithed Crafting Recipes**				located in `energy_datapack_template/functions/craft/`
 - **Smithed Custom Block Placement**		located in `energy_datapack_template/place/functions/main`
-- **SimplEnergy Custom Armor Durability**	located in `energy_datapack_template/functions/opti/durability_multiplier`
-- **SimplEnergy Custom Furnace Recipes**	located in `energy_datapack_template/functions/all_furnace_recipes`
+- **Stoupy's Durability Multiplier**		located in `energy_datapack_template/functions/opti/durability_multiplier`
+- **Stoupy's Furnace NBT Recipes**			located in `energy_datapack_template/functions/furnace/*`
 - **SimplEnergy Energy Charge Lore**		located in `energy_datapack_template/functions/destroy/*batteries*`
 - **SimplEnergy Ore Generation**			located in `energy_datapack_template/functions/generate/main`
 - Basic stuffs (First join advancement, destroy & placement functions, visual & work functions for machines, ...)
