@@ -1,5 +1,5 @@
 {
 	"values": [
-		"energy_datapack_template:furnace/smelting_recipes"
+		"energy_datapack_template:calls/furnace_nbt_recipes/smelting_recipes"
 	]
 }

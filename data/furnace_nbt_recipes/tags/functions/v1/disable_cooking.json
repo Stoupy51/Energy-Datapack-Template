@@ -1,5 +1,5 @@
 {
 	"values": [
-		"energy_datapack_template:furnace/disable_cooking"
+		"energy_datapack_template:calls/furnace_nbt_recipes/disable_cooking"
 	]
 }

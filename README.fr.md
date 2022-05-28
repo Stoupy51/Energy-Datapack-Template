@@ -34,12 +34,12 @@
 
 # 🔧 Ce qui est déjà configuré
 - **Lantern Load (load & post_load)**		base situé dans `load/tags/functions/*`
-- **Smithed Crafting Recipes**				situé dans `energy_datapack_template/functions/craft/`
+- **Smithed Crafting Recipes**				situé dans `energy_datapack_template/functions/calls/smithed/`
 - **Smithed Custom Block Placement**		situé dans `energy_datapack_template/place/functions/main`
-- **Stoupy's Durability Multiplier**		situé dans `energy_datapack_template/functions/opti/durability_multiplier`
-- **Stoupy's Furnace NBT Recipes**			situé dans `energy_datapack_template/functions/furnace/*`
+- **Stoupy's Durability Multiplier**		situé dans `energy_datapack_template/functions/calls/durability_multiplier`
+- **Stoupy's Furnace NBT Recipes**			situé dans `energy_datapack_template/functions/calls/furnace_nbt_recipes/*`
 - **SimplEnergy Energy Charge Lore**		situé dans `energy_datapack_template/functions/destroy/*batteries*`
-- **SimplEnergy Ore Generation**			situé dans `energy_datapack_template/functions/generate/main`
+- **SimplEnergy Ore Generation**			situé dans `energy_datapack_template/functions/calls/generate/main`
 - Systèmes de base (First join advancement, destroy & placement functions, visual & work functions for machines, ...)
 - Un générateur, un consommateur d'énergie, une batterie
 - Boucles s'actualisant tou(te)s les ticks, 2 ticks, secondes, et minutes

@@ -1,5 +1,5 @@
 {
 	"values": [
-		"energy_datapack_template:furnace/recipes_used"
+		"energy_datapack_template:calls/furnace_nbt_recipes/recipes_used"
 	]
 }

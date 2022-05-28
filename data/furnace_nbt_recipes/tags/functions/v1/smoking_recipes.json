@@ -1,5 +1,5 @@
 {
 	"values": [
-		"energy_datapack_template:furnace/smoking_recipes"
+		"energy_datapack_template:calls/furnace_nbt_recipes/smoking_recipes"
 	]
 }
