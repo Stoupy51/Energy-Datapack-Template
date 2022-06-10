@@ -4,6 +4,7 @@
 
 tag @s add energy_datapack_template.placer
 
+execute if data storage smithed.custom_block:main blockApi{id:"energy_datapack_template:template_ore"} run function energy_datapack_template:place/template_ore/main
 execute if data storage smithed.custom_block:main blockApi{id:"energy_datapack_template:template_block"} run function energy_datapack_template:place/template_block/main
 execute if data storage smithed.custom_block:main blockApi{id:"energy_datapack_template:template_battery"} run function energy_datapack_template:place/template_battery/main
 execute if data storage smithed.custom_block:main blockApi{id:"energy_datapack_template:empty_generator"} run function energy_datapack_template:place/empty_generator/main

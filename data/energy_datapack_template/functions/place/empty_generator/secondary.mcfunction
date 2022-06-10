@@ -1,4 +1,11 @@
 
+function simplenergy:place/block_tags
+data modify entity @s Item set value {id:"deepslate",Count:1b,tag:{CustomModelData:XXX0300}}
+tag @s add simplenergy.rotable
+tag @s add simplenergy.empty_generator
+tag @s add simplenergy.destroy_furnace
+tag @s add energy.send
+
 scoreboard players set @s energy.max_storage 500
 scoreboard players operation @s energy.transfer_rate = @s energy.max_storage
 scoreboard players set @s energy.storage 0
