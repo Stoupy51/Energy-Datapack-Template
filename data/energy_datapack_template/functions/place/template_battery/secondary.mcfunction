@@ -2,8 +2,8 @@
 function simplenergy:place/block_tags
 data modify entity @s Item set value {id:"deepslate",Count:1b,tag:{CustomModelData:XXX0200}}
 tag @s add simplenergy.balancing
-tag @s add simplenergy.template_battery
-tag @s add simplenergy.destroy_cobbled_deepslate
+tag @s add energy_datapack_template.template_battery
+tag @s add energy_datapack_template.destroy_cobbled_deepslate
 tag @s add energy.receive
 tag @s add energy.send
 
