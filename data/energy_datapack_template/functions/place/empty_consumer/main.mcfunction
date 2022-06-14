@@ -6,4 +6,4 @@ execute if score #success energy_datapack_template.data matches 0 store success 
 execute if score #success energy_datapack_template.data matches 0 store success score #success energy_datapack_template.data if entity @s[y_rotation=225..315] run setblock ~ ~ ~ furnace[facing=west]{CustomName:'[{"text":"Empty Consumer"}]'}
 
 function energy_datapack_template:place/glow_item_frame_rotation
-execute as @e[type=glow_item_frame,tag=energy_datapack_template.set_new] at @s run function energy_datapack_template:place/empty_consumer/secondary
+execute as @e[tag=energy_datapack_template.set_new] at @s run function energy_datapack_template:place/empty_consumer/secondary

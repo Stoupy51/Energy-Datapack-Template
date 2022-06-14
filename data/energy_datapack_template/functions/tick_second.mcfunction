@@ -6,7 +6,7 @@
 	execute as @a[sort=random] at @s run function energy_datapack_template:utils/tick_second_players
 
 #Custom Blocks
-	execute as @e[type=#energy:valid_block_entities,tag=energy_datapack_template.destroyer] at @s run function energy_datapack_template:destroy/all
+	execute as @e[tag=energy_datapack_template.destroyer] at @s run function energy_datapack_template:destroy/all
 	execute as @e[type=glow_item_frame,tag=energy_datapack_template.destroyer,sort=random] at @s run function energy_datapack_template:utils/tick_second_glows
 
 
