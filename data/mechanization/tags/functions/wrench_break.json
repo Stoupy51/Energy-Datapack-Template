@@ -1,0 +1,6 @@
+{
+	"required": false,
+	"values": [
+		"energy_datapack_template:calls/mechanization/wrench_break"
+	]
+}
