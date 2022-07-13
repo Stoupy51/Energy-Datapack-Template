@@ -42,7 +42,7 @@
 - **SimplEnergy Ore Generation**			situé dans `energy_datapack_template/functions/calls/generate/main`
 - Systèmes de base (First join advancement, destroy & placement functions, visual & work functions for machines, ...)
 - Un générateur, un consommateur d'énergie, une batterie
-- Boucles s'actualisant tou(te)s les ticks, 2 ticks, secondes, et minutes
+- Boucles s'actualisant tou(te)s les ticks, 2 ticks, secondes, 5 secondes, et minutes
 
 
 

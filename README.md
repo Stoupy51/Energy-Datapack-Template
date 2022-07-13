@@ -42,7 +42,7 @@
 - **SimplEnergy Ore Generation**			located in `energy_datapack_template/functions/calls/generate/main`
 - Basic stuffs (First join advancement, destroy & placement functions, visual & work functions for machines, ...)
 - A generator, an energy consumer, a battery
-- 1 tick, 2 ticks, 1 second, and 1 minute clocks
+- 1 tick, 2 ticks, 1 second, 5 seconds, and 1 minute clocks
 
 
 
