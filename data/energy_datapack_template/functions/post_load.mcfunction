@@ -1,7 +1,7 @@
 
 ##Called by function tag #load:post_load
 
-execute store result score #game_version load.status run data get entity @r DataVersion
+execute if entity @p store result score #game_version load.status run data get entity @p DataVersion
 
 execute unless score SimplEnergy load.status matches 1090..1100 run tellraw @a {"text":"Energy Datapack Template Error: SimplEnergy v1.9.x is required, click [here] to download","italic":false,"color":"red","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com/data-pack/simplenergy/"}}
 execute unless score SimplEnergy load.status matches 1.. run tellraw @a {"text":"Energy Datapack Template Error: SimplEnergy v1.9.x is missing, click [here] to download","italic":false,"color":"red","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com/data-pack/simplenergy/"}}
