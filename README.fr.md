@@ -19,8 +19,9 @@
 
 
 # 📚 Librairies/Modules utilisés, conventions, guideline, tips suivis
-- [Smithed Custom Block Placement](https://wiki.smithed.dev/libraries/smithed-crafter)
-- [Smithed Crafter](https://wiki.smithed.dev/libraries/smithed-crafter)
+- [Smithed Custom Block Placement](https://wiki.smithed.dev/libraries/custom-block/)
+- [Smithed Custom Damage](https://wiki.smithed.dev/libraries/damage/)
+- [Smithed Crafter](https://wiki.smithed.dev/libraries/crafter/)
 - [DatapackEnergy](https://github.com/ICY105/DatapackEnergy)
 - [Stoupy's Durability Multiplier](https://github.com/Stoupy51/DurabilityMultiplier)
 - [Stoupy's Furnace NBT Recipes](https://github.com/Stoupy51/FurnaceNbtRecipes)
