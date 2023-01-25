@@ -1,0 +1,8 @@
+{
+	"values": [
+		{
+			"id": "#simplenergy:load",
+			"required": false
+		}
+	]
+}

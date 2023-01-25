@@ -1,7 +1,5 @@
 {
 	"values": [
-		"#energy:load",
-		"simplenergy:load",
-		"energy_datapack_template:load"
+		"#energy_datapack_template:load/main"
 	]
 }

@@ -20,7 +20,6 @@
 
 # 📚 Librairies/Modules used, conventions, guideline, tips followed
 - [Smithed Custom Block Placement](https://wiki.smithed.dev/libraries/custom-block/)
-- [Smithed Custom Damage](https://wiki.smithed.dev/libraries/damage/)
 - [Smithed Crafter](https://wiki.smithed.dev/libraries/crafter/)
 - [DatapackEnergy](https://github.com/ICY105/DatapackEnergy)
 - [Stoupy's Durability Multiplier](https://github.com/Stoupy51/DurabilityMultiplier)
@@ -34,9 +33,9 @@
 
 
 # 🔧 What is already configured
-- **Lantern Load (load & post_load)**		base located in `load/tags/functions/*`
+- **Lantern Load (load orders)**			base located in `load/tags/functions/*`
 - **Smithed Crafting Recipes**				located in `energy_datapack_template/functions/calls/smithed/`
-- **Smithed Custom Block Placement**		located in `energy_datapack_template/place/functions/`
+- **Smithed Custom Block Placement**		located in `energy_datapack_template/functions/place/`
 - **Stoupy's Durability Multiplier**		located in `energy_datapack_template/functions/calls/durability_multiplier`
 - **Stoupy's Furnace NBT Recipes**			located in `energy_datapack_template/functions/calls/furnace_nbt_recipes/*`
 - **SimplEnergy Energy Charge Lore**		located in `energy_datapack_template/functions/destroy/*batteries*`
@@ -55,7 +54,8 @@
 - - (e.g. `simplenergy`, `my_energy_datapack`, ...)
 - - Find: `Energy Datapack Template` and replace with your data pack own name
 - - (e.g. `SimplEnergy`, `My Energy Datapack`, ...)
-- - Modify line 12 in `energy_datapack_template/functions/load.mcfunction` with your own data pack name
+- - Find: `EnergyDatapackTemplate` and replace with your data pack own name
+- - (e.g. `SimplEnergy`, `MyEnergyDatapack`, ...)
 
 - Modify content of `pack.mcmeta` with your own data pack name
 

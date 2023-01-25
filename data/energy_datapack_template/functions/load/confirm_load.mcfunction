@@ -1,8 +1,9 @@
 
-##Called by function tag #load:load
+##Called by function energy_datapack_template:load/main
+
+tellraw @a[tag=convention.debug] {"text":"[Loaded Energy Datapack Template v1.0.0]","color":"green"}
 
 # Define scoreboard objectives
-scoreboard objectives add energy_datapack_template.data dummy
 scoreboard objectives add energy_datapack_template.config dummy
 
 # Default Config

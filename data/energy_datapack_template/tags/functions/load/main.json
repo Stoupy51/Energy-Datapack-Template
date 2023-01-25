@@ -1,0 +1,9 @@
+{
+	"values": [
+		{
+			"id": "#energy_datapack_template:load/dependencies",
+			"required": false
+		},
+		"energy_datapack_template:load/"
+	]
+}

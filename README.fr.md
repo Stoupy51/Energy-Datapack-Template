@@ -34,9 +34,9 @@
 
 
 # 🔧 Ce qui est déjà configuré
-- **Lantern Load (load & post_load)**		base situé dans `load/tags/functions/*`
+- **Lantern Load (load orders)**			base située dans `load/tags/functions/*`
 - **Smithed Crafting Recipes**				situé dans `energy_datapack_template/functions/calls/smithed/`
-- **Smithed Custom Block Placement**		situé dans `energy_datapack_template/place/functions/`
+- **Smithed Custom Block Placement**		situé dans `energy_datapack_template/functions/place/`
 - **Stoupy's Durability Multiplier**		situé dans `energy_datapack_template/functions/calls/durability_multiplier`
 - **Stoupy's Furnace NBT Recipes**			situé dans `energy_datapack_template/functions/calls/furnace_nbt_recipes/*`
 - **SimplEnergy Energy Charge Lore**		situé dans `energy_datapack_template/functions/destroy/*batteries*`
@@ -55,7 +55,8 @@
 - - (e.g. `simplenergy`, `my_energy_datapack`, ...)
 - - Recherchez : `Energy Datapack Template` et remplacez par le nom de votre data pack.
 - - (e.g. `SimplEnergy`, `My Energy Datapack`, ...)
-- - Modifiez la ligne 12 dans `energy_datapack_template/functions/load.mcfunction` avec le nom de votre data pack.
+- - Recherchez : `EnergyDatapackTemplate` et remplacez par le nom de votre data pack.
+- - (e.g. `SimplEnergy`, `MyEnergyDatapack`, ...)
 
 - Modifiez le contenu de `pack.mcmeta` avec le nom de votre data pack.
 
